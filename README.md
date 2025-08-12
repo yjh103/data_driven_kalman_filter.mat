@@ -1,2 +1,2 @@
 # data_driven_kalman_filter.mat
-아직 가정을 더 추가하지 않은 버전.
+수정할 내용 있으면 계속 수정하겠습니다.
